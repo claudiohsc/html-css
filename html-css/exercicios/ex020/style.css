@@ -1,0 +1,27 @@
+div#d {
+    display: inline-block;
+    background-color: gray;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+div#d:hover {
+    background-color: red;
+}
+
+div > p {
+    display: none;
+}
+
+div:hover > p {
+    display: block;
+    background-color: red;
+}
+
+div#d2 {
+    margin-top: 20px;
+    height: 60px;
+    width: 80px;
+    background-color: gray;
+}
