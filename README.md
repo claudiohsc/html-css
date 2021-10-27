@@ -1,2 +1,2 @@
 # HTML - CSS
-- Learning HTML and CSS.
+- Estudo de HTML e CSS.
